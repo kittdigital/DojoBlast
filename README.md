@@ -1,2 +1,2 @@
 # DojoBlast
-Basic asteroid destroying game built with Phaser
+Basic asteroid destroying game built with JavaScript and the Phaser Framework
